@@ -1,4 +1,4 @@
-Hi 👋 My name is Boris Hubavenski
+Hi 👋 My name is Boris
 =================================
 
 Fullstack React Developer
