@@ -8,7 +8,7 @@ My journey into programming began 5 years ago when I enrolled in a specialized I
 
 * 🌍  I'm based in Sofia, Bulgaria
 * ✉️  You can contact me at [borishubavenski7@gmail.com](mailto:borishubavenski7@gmail.com)
-* 🚀  I'm currently working on [Build your own Git](https://app.codecrafters.io/courses/git/overview)
+* 🚀  I'm currently working on [Build your own Git](https://app.codecrafters.io/courses/git/overview) with C++
 * 🧠  I'm learning C++ & STL
 * 🤝  I'm open to collaborating on projects related to social impact apps, cryptocurrency applications, or FiveM scripts.
 
